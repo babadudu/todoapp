@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="label_submit">Add Item</string>
+    <string name="label_text1">Enter New Item</string>
+    <string name="label_showText">Nothing Yet</string>
+    <string name="enter_any_text_label">Enter Any Text</string>
+</resources>
