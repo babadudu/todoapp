@@ -4,4 +4,7 @@
     <string name="label_text1">Enter New Item</string>
     <string name="label_showText">Nothing Yet</string>
     <string name="enter_any_text_label">Enter Any Text</string>
+    <string name="label_save">Save</string>
+    <string name="label_editField"/>
+    <string name="label_editText">Edit Item Below :</string>
 </resources>
